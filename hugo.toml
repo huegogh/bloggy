@@ -1,0 +1,4 @@
+baseURL = 'https://huegogh.com/'
+languageCode = 'en-us'
+title = '👨‍💻 Hugo Mejia'
+theme = 'hugo-profile'
